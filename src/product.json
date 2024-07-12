@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+        "title": "Sakız",
+        "price": 5,
+         "image": " https://cdn.akakce.com/z/falim/falim-tekli-damla-100-adet.jpg"
+
+    },
+      
+    {
+      "id": 2,
+      "title": "Şeker",
+      "price": 10,
+      "image":"https://productimages.hepsiburada.net/s/53/375-375/11159357063218.jpg"
+      
+    },
+    {
+        "id": 3,
+        "title":"Kalem",
+        "price": 40,
+        "image": "https://morsallioglu.com/images/upload/0e58724c4a153ee4cf4277cbfa76cddb.jpg"
+    },
+    
+    {
+        "id":4,
+        "title":"Bisküvi",
+        "price": 40,
+        "image": "https://ideacdn.net/idea/el/24/myassets/products/326/ulker-potibor-biskuvi-450-gr.png?revision=1697143329"
+    },
+
+    {
+        "id":5,
+        "title":"Dondurma",
+        "price": 400,
+        "image": "https://media.istockphoto.com/id/1161805849/tr/foto%C4%9Fraf/%C3%A7ilek-vanilya-%C3%A7ikolata-dondurma-ile-g%C3%B6zleme-koni-mermer-ta%C5%9F-arka.jpg?s=612x612&w=0&k=20&c=AkHj6Y4Aj2FGnOob_5iHOtShqi6VUnTnX5PYca_4HGY="
+    },
+
+    {
+        "id":6,
+        "title":"Noodle",
+        "price": 400,
+        "image": "https://cdn.dsmcdn.com/mnresize/500/-/ty1412/product/media/images/prod/QC/20240709/18/9d84f3a8-df82-3acb-91cf-7bcab0cdb825/1_org.jpg"
+    },
+
+    {
+        "id":7,
+        "title":"Süt",
+        "price": 30,
+        "image": "https://previews.123rf.com/images/will46/will461509/will46150900042/44971649-s%C3%BCt-kutusu.jpg"
+    },
+
+    {
+        "id":8,
+        "title":"Yumurta",
+        "price": 100,
+        "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/14453-9a280bc8ade7b89174377d92f96a5905-jpg-9a280bc8ade7b89174377d92f96a5905.jpg"
+    },
+
+    {
+        "id":9,
+        "title":"Cips",
+        "price": 50,
+        "image": "https://images.deliveryhero.io/image/product-information-management/65b8c4f0fa9bec8df536f6c6.jpg?height=480"
+    },
+
+    {
+        "id":10,
+        "title":"Çikolata",
+        "price": 30,
+        "image": "https://n11scdn.akamaized.net/a1/640/15/13/61/57/70140961.jpg"
+    },
+
+    {
+        "id":11,
+        "title":"Peynir",
+        "price": 100,
+        "image": "https://ardenmarket.com.tr/media/catalog/product/cache/0b154ba1d9ffbc98998b9163ce10b49b/i/c/icim-ucgen-peynir-yarim.jpg"
+    },
+    {
+        "id":12,
+        "title":"Yoğurt",
+        "price": 100,
+        "image": "https://media.istockphoto.com/id/1060883416/tr/vekt%C3%B6r/ka%C5%9F%C4%B1k-ile-yo%C4%9Furt-kupas%C4%B1.jpg?s=612x612&w=0&k=20&c=QopsCZB6S1SMHjzqXOaXlKaYFpFRoz72e4QCoCOkPGU="
+    },
+    {
+        "id":13,
+        "title":"Ekmek",
+        "price": 20,
+        "image": "https://ideacdn.net/idea/jl/78/myassets/products/143/tekli-ekmek-tereci-resim-1407.jpg?revision=1709721061="
+    },
+    {
+        "id":14,
+        "title":"Reçel",
+        "price": 70,
+        "image": "https://platincdn.com/1858/pictures/thumb/600X-DTGKIOTBMA131202005246_Karisik-Zencefil-Receli-min.jpg"
+    },
+    {
+        "id":15,
+        "title":"Bal",
+        "price": 200,
+        "image": "https://erozker.com/wp-content/uploads/2020/06/baldogal.jpg"
+    },
+    {
+        "id":16,
+        "title":"Çay",
+        "price": 70,
+        "image": "https://caykursatis.com/tiryaki-cayi-500gr-siyah-cay-caykur-siyah-cay-caykur-siyah-cay-127-96-B.jpg"
+    },
+    {
+        "id":17,
+        "title":"Kahve",
+        "price": 90,
+        "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/48857/uploads/urunresimleri/buyuk/1040908-2be-a9.jpg"
+    },
+    {
+        "id":18,
+        "title":"Meyve Suyu",
+        "price": 40,
+        "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/10796-ea0de9423ac84de24894678d8876870d-jpg-ea0de9423ac84de24894678d8876870d.jpg"
+    },
+    {
+        "id":19,
+        "title":"Sıvı Sabun",
+        "price": 85,
+        "image": "https://img-cosmetica.mncdn.com/UPLOAD/URUNLER/thumb/225587_1_medium.jpg"
+    },
+    {
+        "id":20,
+        "title":"Tereyağı",
+        "price": 200,
+        "image": "https://cdn.akakce.com/z/sutas/sutas-450-gr-yayik.jpg"
+    }
+
+
+
+
+
+
+
+
+]
